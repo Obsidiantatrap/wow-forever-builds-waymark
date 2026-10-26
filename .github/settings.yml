@@ -1,0 +1,9 @@
+repository:
+  name: wow-forever-builds-waymark
+  description: A step-by-step WoW Forever leveling route with an in-game overlay. Free Windows app.
+  homepage: https://waymark.lol
+  topics: ["wow", "leveling", "routes", "windows", "free"]
+  private: false
+  has_issues: true
+  has_projects: false
+  has_wiki: false
