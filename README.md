@@ -9,6 +9,10 @@
 
 <p align="center"><a href="https://waymark.lol"><b>Website</b></a> &nbsp;|&nbsp; <a href="https://waymark.lol/downloads/Waymark-setup.exe"><b>Download for Windows</b></a></p>
 
+> **Download:** Windows build is in the link above — one `Waymark-setup.exe`, no installer, no account.
+>
+> The build isn't code-signed yet, so SmartScreen may warn you the first time. Choose **More info**, then **Run anyway**.
+
 ## Quest: Quit Alt-Tabbing
 
 *You have opened a leveling guide in a browser for the fourth time tonight. You died while reading it. Find a better way.*
